@@ -1872,6 +1872,10 @@
 		text-align: center;
 	}
 
+	.health-screen-btn {
+		text-align: center;
+	}
+
 /* Button */
 
 	input[type="submit"],
