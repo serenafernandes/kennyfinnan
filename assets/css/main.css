@@ -1864,6 +1864,14 @@
 
 		}
 
+	.subtitle-box {
+		color: #84ff1d;
+	}
+
+	.title-center {
+		text-align: center;
+	}
+
 /* Button */
 
 	input[type="submit"],
